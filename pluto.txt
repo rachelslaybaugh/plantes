@@ -1,2 +1,6 @@
 Pluto is a planet.
 I think it should be part of our mission
+
+Uuuuh, I'm no longer sure if I follow whats going on, so 
+Imma just see what happens when I give the shell some 
+commands. :P
