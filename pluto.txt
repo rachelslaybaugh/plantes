@@ -2,3 +2,4 @@ It is so a planet!
 Pluto is not part of or galaxy anymore.
 It is not a planet at all!
 We will not consider it as part of our mission.
+This example should be better.
